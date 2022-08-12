@@ -1,0 +1,15 @@
+E:\Курс GeekBrains\GIT\Homework\task_10\bin\Debug\net6.0\task_10.exe
+E:\Курс GeekBrains\GIT\Homework\task_10\bin\Debug\net6.0\task_10.deps.json
+E:\Курс GeekBrains\GIT\Homework\task_10\bin\Debug\net6.0\task_10.runtimeconfig.json
+E:\Курс GeekBrains\GIT\Homework\task_10\bin\Debug\net6.0\task_10.dll
+E:\Курс GeekBrains\GIT\Homework\task_10\bin\Debug\net6.0\task_10.pdb
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.csproj.AssemblyReference.cache
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.AssemblyInfoInputs.cache
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.AssemblyInfo.cs
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.csproj.CoreCompileInputs.cache
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.dll
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\refint\task_10.dll
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.pdb
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\task_10.genruntimeconfig.cache
+E:\Курс GeekBrains\GIT\Homework\task_10\obj\Debug\net6.0\ref\task_10.dll
